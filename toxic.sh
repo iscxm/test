@@ -5,10 +5,7 @@
 # Changes v12: SSH on port 22 via host iptables DNAT forward
 # ─────────────────────────────────────────────────────────────
 
-DOMAIN="toxics.me"
-CF_API_TOKEN="cfut_hS2HwR1VRu5zGsZMx2gwYaUH0yOByfvEgX9BnB3j78a24600"
-CF_ZONE_ID="3940182207c6a5178f8847d7835e51e9"
-COUNTER_FILE="/var/techofy/hostname_counter"
+
 
 USERNAME="$1"
 PASSWORD="$2"
